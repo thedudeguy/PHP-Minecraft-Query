@@ -126,6 +126,7 @@ class Query {
 		
 		if (!isset($response_data['token']) || empty($response_data['token'])) {
 			$this->errstr = "Unable to authenticate connection.";
+			return false;
 		}
 		
 		$this->token = $response_data['token'];
