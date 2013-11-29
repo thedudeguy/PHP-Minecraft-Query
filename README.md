@@ -1,7 +1,9 @@
 PHP-Minecraft-Query
 ===================
 
-A simple PHP class to connect to a minecraft server and get data about the server using the Query Protocol
+A simple PHP class to connect to a minecraft server and get data about the server using the Query Protocol.
+
+To connect to a server, Query must be activated on the minecraft server by setting `enable-query=true` in the server's server.properties.
 
 ## Examples
 
