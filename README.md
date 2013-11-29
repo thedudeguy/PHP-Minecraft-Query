@@ -5,6 +5,8 @@ A simple PHP class to connect to a minecraft server and get data about the serve
 
 To connect to a server, Query must be activated on the minecraft server by setting `enable-query=true` in the server's server.properties.
 
+This script connects to the server over UDP.
+
 ## Examples
 
 ### As a Regular PHP Library:
