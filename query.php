@@ -2,8 +2,8 @@
  * Connects to a minecraft server using the [Gamespy?] Query protocol.
  * more info on the protocol can be found at
  * http://wiki.vg/Query
- 
- * @author Chris Churchwell
+ *
+ * @copyright 2013 Chris Churchwell
  *
  */
 class Query {
