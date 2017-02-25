@@ -1,3 +1,4 @@
+<?php
 /**
  * Connects to a minecraft server using the [Gamespy?] Query protocol.
  * more info on the protocol can be found at
